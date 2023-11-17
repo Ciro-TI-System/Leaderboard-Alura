@@ -9,7 +9,7 @@ Tabela de Classificação
 <br>
 
 <p align="center">
-  <img src=".github/" width="100%">
+  <img src=".github/LeaderBoard.jpeg" width="100%">
 </p>
 
 <br>
